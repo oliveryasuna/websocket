@@ -18,9 +18,9 @@
 
 package com.oliveryasuna.websocket;
 
+import com.oliveryasuna.commons.language.pattern.Registration;
 import com.oliveryasuna.websocket.observable.event.*;
 import com.oliveryasuna.websocket.observable.listener.WebSocketListener;
-import com.oliveryasuna.websocket.util.Registration;
 import org.springframework.web.socket.*;
 
 import java.util.HashMap;

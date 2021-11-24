@@ -66,6 +66,13 @@
             <artifactId>lombok</artifactId>
             <version>1.18.22</version>
         </dependency>
+
+        <!-- OJY Commons Language. -->
+        <dependency>
+            <groupId>com.oliveryasuna.commons</groupId>
+            <artifactId>commons-language</artifactId>
+            <version>1.0.3</version>
+        </dependency>
     </dependencies>
 
     <!--==================================================
