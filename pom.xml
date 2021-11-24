@@ -82,9 +82,16 @@
 
     <name>WebSocket</name>
     <description>Tiny websocket library built on Spring WebSocket.</description>
-    <url/> <!-- TODO. -->
+    <url>https://github.com/oliveryasuna/websocket</url>
     <inceptionYear>2021</inceptionYear>
-    <licenses/> <!-- TODO. -->
+    <licenses>
+        <license>
+            <name>BSD 3-Clause</name>
+            <url>https://opensource.org/licenses/BSD-3-Clause</url>
+            <comments>Copyright 2021 Oliver Yasuna</comments>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
     <organization>
         <name>Oliver Yasuna</name>
         <url>https://oliveryasuna.github.io/</url>
@@ -106,15 +113,18 @@
     ==== Environment
     ==================================================-->
 
-    <issueManagement/> <!-- TODO. -->
+    <issueManagement>
+        <system>GitHub</system>
+        <url>https://github.com/oliveryasuna/websocket/issues</url>
+    </issueManagement>
     <ciManagement/>
 
     <mailingLists/>
 
     <scm>
-        <url/> <!-- TODO. -->
-        <connection/> <!-- TODO. -->
-        <developerConnection/> <!-- TODO. -->
+        <url>https://github.com/oliveryasuna/websocket</url>
+        <connection>scm:git:git://github.com/oliveryasuna/websocket.git</connection>
+        <developerConnection>scm:git:git://github.com/oliveryasuna/websocket.git</developerConnection>
     </scm>
 
     <repositories>
